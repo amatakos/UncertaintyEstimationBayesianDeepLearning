@@ -1,0 +1,7 @@
+in evaluate_regr(), bnn doesn't have attribute model.hidden_layers. Implement it in a src/inference/bnn.py script
+
+what is -s and -ps difference in script? (samples / posterior samples)
+
+MCMC not working for tanh!! :/
+
+implement pre-trained model for MCMC and VI? (note: you have already written something in airfoil.py/MCMC
